@@ -1,0 +1,9 @@
+﻿<template>
+    <div>
+        <h1>子组件内容</h1>
+        <div>
+            <!--定义子组件匿名插槽-->
+            <slot></slot>
+        </div>
+    </div>
+</template>
